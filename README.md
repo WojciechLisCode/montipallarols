@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**montipallarols/montipallarols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Thanks for visiting my Github profile
 
@@ -11,4 +10,4 @@ Thanks for visiting my Github profile
 - 📫 How to reach me: montaga.pallarols@gmail.com
 
 
--->
+
