@@ -14,7 +14,7 @@
 
 ### Languages and tools ###
 
-<p><a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="title"></a></p>
+[vscode](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
 
 
 
