@@ -8,7 +8,7 @@
 
 📫 How to reach me: montaga.pallarols@gmail.com
 
-💬 Feel free to also drop me a message <a href="https://www.linkedin.com/in/montaga-pallarols/" rel="nofollow">here</a>
+💬 Feel free to also drop me a message [here](https://www.linkedin.com/in/montaga-pallarols/).
 
 ☕️ This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
