@@ -14,6 +14,8 @@ You can check out Slacker, one of my latest projects, which for now is a web app
 
 [Slacker: Backend repo](https://github.com/montipallarols/slacker-server)
 
+For a full overview of the project check out my [kanban project board](https://github.com/users/montipallarols/projects/1).
+
 
 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/montaga-pallarols/).
 
