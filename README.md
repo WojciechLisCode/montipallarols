@@ -6,15 +6,18 @@
 
 🚀 I am currently finishing the Full Stack Web Development bootcamp at the Codaisseur academy in Amsterdam. 
 
-Earlier this year I started experimenting with JavaScript and it's safe to say that programming has quickly become one of my biggest passions. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. Soon I'm hoping to turn it into a social platform for film buffs. 
+Earlier this year I started experimenting with JavaScript and it's safe to say that programming has quickly become one of my biggest passions. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
+
+You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. Soon I'm hoping to turn it into a social platform for film buffs. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
 
 [Slacker: Backend repo](https://github.com/montipallarols/slacker-server)
 
-📫 How to reach me: montaga.pallarols@gmail.com
 
-💬 Feel free to also reach out to me on [LinkedIn](https://www.linkedin.com/in/montaga-pallarols/).
+💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/montaga-pallarols/).
+
+📫 Or drop me an email at: montaga.pallarols@gmail.com
 
 ☕️ This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
