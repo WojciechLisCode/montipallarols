@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hey! I'm Montaga 👋
 
 
 
-Thanks for visiting my Github profile
+Thanks for visiting my Github profile!
 
-- 🌱 I have been learning Full Stack Web Development at the Codaisseur academy for the past three months and I am about to graduate soon. This is a very exciting journey for me and I'm looking forward to continuing to build some exciting projects. 
-
+- 🌱 I am currently finishing the Full Stack Web Development bootcamp at the Codaisseur academy in Amsterdam. This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
 - 📫 How to reach me: montaga.pallarols@gmail.com
 
