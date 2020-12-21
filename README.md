@@ -6,7 +6,7 @@
 
 🚀 I am currently finishing the Full Stack Web Development bootcamp at the Codaisseur academy in Amsterdam. 
 
-Earlier this year I started experimenting with JavaScript and it's safe to say that programming has quickly become one of my biggest passions. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
+Earlier this year I started experimenting with HTML, CSS and JavaScript and it's safe to say that programming has quickly become one of my biggest passions. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
 
 You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. Soon I'm hoping to turn it into a social platform for film buffs. 🎥
 
