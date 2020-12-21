@@ -4,7 +4,7 @@
 
 ### Thanks for visiting my Github profile! ###
 
-🚀 In December 2020 I graduated from [Codaisseur](montipallarols/jokes-backend)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
+🚀 In December 2020 I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
 
 It was earlier this year that I started experimenting with HTML, CSS and JavaScript and soon I found a passion for coding that I couldn't let go of, so I decided to make the career switch. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
 
