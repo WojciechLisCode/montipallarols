@@ -8,7 +8,7 @@
 
 It was earlier this year that I started experimenting with HTML, CSS and JavaScript and soon I found a passion for coding that I couldn't let go of, so I decided to make the career switch. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
 
-You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. Soon I'm hoping to turn it into a social platform for film buffs. 🎥
+You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
 
