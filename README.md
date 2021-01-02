@@ -6,7 +6,7 @@
 
 🚀 In December 2020 I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
 
-It was earlier this year that I started experimenting with HTML, CSS and JavaScript and soon I found a passion for coding that I couldn't let go of, so I decided to make the career switch. It brings me great joy to be able to turn my ideas into projects and tools that can be useful for others. 
+At the start of 2020 I decided I wanted to find out how computers use language. Soon after I started experimenting with HTML, CSS and JavaScript I realised I enjoyed coding a lot more than teaching, which led me to the Codaisseur academy. It’s been a nonstop sprint ever since, and I’m incredibly happy to have found the perfect cognitive outlet with the right balance of logic, utility and creativity.  
 
 You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
