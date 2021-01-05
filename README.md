@@ -14,6 +14,8 @@ You can check out Slacker, one of my latest projects, which for now is a web app
 
 [Slacker: Backend repo](https://github.com/montipallarols/slacker-server)
 
+Check out the live website [here](https://slacker.netlify.app/)
+
 For a full overview of the project check out my [kanban project board](https://github.com/users/montipallarols/projects/1).
 
 
