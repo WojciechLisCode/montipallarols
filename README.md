@@ -8,7 +8,7 @@
 
 At the start of 2020 I decided I wanted to find out how computers use language. Soon after I started experimenting with HTML, CSS and JavaScript I realised I enjoyed coding a lot more than teaching, which led me to the Codaisseur academy. It’s been a nonstop sprint ever since, and I’m incredibly happy to have found the perfect cognitive outlet with the right balance of logic, utility and creativity.  
 
-You can check out Slacker, one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
+You can check out [Slacker](https://slacker.netlify.app/), one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
 
