@@ -23,7 +23,7 @@ For a full overview of the project check out my [kanban project board](https://g
 
 📫 Or drop me an email at: montaga.pallarols@gmail.com
 
-☕️ This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
+This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
 ### Languages and tools ###
 
