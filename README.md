@@ -13,8 +13,6 @@ At the start of 2020 I decided I wanted to find out how computers use language. 
 
 📫 Or drop me an email at: montaga.pallarols@gmail.com
 
-This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
-
 You can check out [Slacker](https://slacker.netlify.app/), one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
@@ -22,6 +20,8 @@ You can check out [Slacker](https://slacker.netlify.app/), one of my latest proj
 [Slacker: Backend repo](https://github.com/montipallarols/slacker-server)
 
 For a full overview of the project check out my [kanban project board](https://github.com/users/montipallarols/projects/1).
+
+This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
 ### Languages and tools ###
 
