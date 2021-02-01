@@ -8,6 +8,13 @@
 
 At the start of 2020 I decided I wanted to find out how computers use language. Soon after I started experimenting with HTML, CSS and JavaScript I realised I enjoyed coding a lot more than teaching, which led me to the Codaisseur academy. It’s been a nonstop sprint ever since, and I’m incredibly happy to have found the perfect cognitive outlet with the right balance of logic, utility and creativity.  
 
+
+💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/montaga-pallarols/).
+
+📫 Or drop me an email at: montaga.pallarols@gmail.com
+
+This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
+
 You can check out [Slacker](https://slacker.netlify.app/), one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
@@ -15,13 +22,6 @@ You can check out [Slacker](https://slacker.netlify.app/), one of my latest proj
 [Slacker: Backend repo](https://github.com/montipallarols/slacker-server)
 
 For a full overview of the project check out my [kanban project board](https://github.com/users/montipallarols/projects/1).
-
-
-💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/montaga-pallarols/).
-
-📫 Or drop me an email at: montaga.pallarols@gmail.com
-
-This is a very exciting journey for me and I'm looking forward to continuing to build some exciting and challenging projects. 
 
 ### Languages and tools ###
 
