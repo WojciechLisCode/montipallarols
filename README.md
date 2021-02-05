@@ -20,8 +20,8 @@ This is a very exciting journey for me and I'm looking forward to continuing to 
 
 #### What I'm currently working on ####
 
-🌱 At the moment I'm learning Vue.js and TypeScript.
-🌱 Building a development environment app that allows users to write and run code in the browser.
+- 🌱 At the moment I'm learning Vue.js and TypeScript.
+- 🌱 Building a development environment app that allows users to write and run code in the browser.
 
 ### Latest projects ###
 
