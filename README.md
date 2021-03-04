@@ -24,7 +24,7 @@ This is a very exciting journey for me and I'm looking forward to continuing to 
 
 ### Latest projects ###
 
-You can check out [Slacker](https://slacker.netlify.app/), one of my latest projects, which for now is a web app that allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
+You can check out [Slacker](https://slacker.netlify.app/), a full stack web app that I built as part of my final project at Codaisseur. It allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
 
