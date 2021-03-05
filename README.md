@@ -4,7 +4,7 @@
 
 ### Thanks for visiting my Github profile! ###
 
-🚀 I'm [Montaga](https://montagapallarols.netlify.app/) and in December 2020 I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
+🚀 I'm [Montaga](https://montagapallarols.netlify.app/), from Barcelona but based in Amsterdam and in December 2020 I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
 
 At the start of 2020 I decided I wanted to find out how computers use language. Soon after I started experimenting with HTML, CSS and JavaScript I realised I enjoyed coding a lot more than teaching, which led me to the Codaisseur academy. It’s been a nonstop sprint ever since, and I’m very happy to have found the perfect cognitive outlet with the right balance of logic, utility and creativity.  
 
