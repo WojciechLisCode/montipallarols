@@ -21,7 +21,7 @@ This is a very exciting journey for me and I'm looking forward to continuing to 
 
 ### Projects ###
 
-[Slacker](https://slacker.netlify.app/) is a full stack web app that I built as part of my final project at Codaisseur. It allows you to create film lists as well as add reviews for the films and shows that you love. 🎥
+[Slacker](https://slacker.netlify.app/) is a full stack web app that I built as part of my final project at Codaisseur. It allows you to search for films, create lists and add reviews for the films and shows that you love. 🎥
 
 [Slacker: Frontend repo](https://github.com/montipallarols/slacker-client)
 
